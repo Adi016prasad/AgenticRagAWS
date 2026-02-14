@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Keys and Secrets
+*.pem
+.env
+
+# OS files
+.DS_Store
