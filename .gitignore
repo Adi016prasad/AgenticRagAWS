@@ -1,5 +1,8 @@
 # Python virtual environment
 venv/
+*.pyc
+# Also ignore your Firebase credentials!
+credentials/*.json
 __pycache__/
 *.py[cod]
 
